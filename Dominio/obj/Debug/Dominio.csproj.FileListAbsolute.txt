@@ -1,0 +1,12 @@
+C:\Users\walter\Desktop\maxiProgramaWeb2022\GuerreroWalterFernando-Integrador-Maxiprograma-master\Dominio\bin\Debug\Dominio.dll
+C:\Users\walter\Desktop\maxiProgramaWeb2022\GuerreroWalterFernando-Integrador-Maxiprograma-master\Dominio\bin\Debug\Dominio.pdb
+C:\Users\walter\Desktop\maxiProgramaWeb2022\GuerreroWalterFernando-Integrador-Maxiprograma-master\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\walter\Desktop\maxiProgramaWeb2022\GuerreroWalterFernando-Integrador-Maxiprograma-master\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\walter\Desktop\maxiProgramaWeb2022\GuerreroWalterFernando-Integrador-Maxiprograma-master\Dominio\obj\Debug\Dominio.dll
+C:\Users\walter\Desktop\maxiProgramaWeb2022\GuerreroWalterFernando-Integrador-Maxiprograma-master\Dominio\obj\Debug\Dominio.pdb
+C:\Users\walter\Desktop\maxiProgramaWeb2022\articulosWebWalter\Dominio\bin\Debug\Dominio.dll
+C:\Users\walter\Desktop\maxiProgramaWeb2022\articulosWebWalter\Dominio\bin\Debug\Dominio.pdb
+C:\Users\walter\Desktop\maxiProgramaWeb2022\articulosWebWalter\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\walter\Desktop\maxiProgramaWeb2022\articulosWebWalter\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\walter\Desktop\maxiProgramaWeb2022\articulosWebWalter\Dominio\obj\Debug\Dominio.dll
+C:\Users\walter\Desktop\maxiProgramaWeb2022\articulosWebWalter\Dominio\obj\Debug\Dominio.pdb
